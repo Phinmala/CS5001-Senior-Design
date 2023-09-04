@@ -1,4 +1,4 @@
-## Team Name : RERM
+## Team REMY
 
 - Ryan Connolly - Computer Science (connolrc@mail.uc.edu)
 - Emily Bever - Computer Science (bevereg@mail.uc.edu)
