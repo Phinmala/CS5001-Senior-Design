@@ -1,4 +1,4 @@
-**Task Number**|**Milestone**|**Assignee**|**Task**|**Timefram**|
+**Task Number**|**Milestone**|**Assignee**|**Task**|**Timeframe**|
 :-----:|:-----:|:-----:|:-----:|:-----:
 0|1|All|Familiarize selves with GitHub version control, Agile/Scrum development
 1|1|Emily|Research React Development
