@@ -16,7 +16,7 @@
 13|2|Ryan|Execute periodic testing of project code | 1/29/24 - 4/19/24
 14|2|Ryan|Design layout of website | 2/5/24 - 2/12/24
 15|2|Robin|Develop comprehension assessments for learning modules | 2/19/24 - 2/23/24
-16|3|Molly|Research authentication with Node.js and React
+16|3|Molly|Research authentication with Node.js and React | 3/11/24 - 3/25/24
 17|3|Ryan|Build interactive graphics for tutorial content | 3/11/24 - 3/25/24
 18|4|Molly|Facilitate the collection/analysis for user reviews, feedback, and content quality | 4/15/24 - 4/19/24
 19|4|Robin|Handle documentation/organization of content/publication | 4/15/24 - 4/19/24
