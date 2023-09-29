@@ -18,6 +18,6 @@
 15|2|Robin|Develop comprehension assessments for learning modules
 16|3|Molly|Research authentication with Node.js and React
 17|3|Ryan|Build interactive graphics for tutorial content
-18|2|Ryan|Design layout of website
-19|2|Robin|Develop comprehension assessments for learning modules
-20|3|Molly|Produce logo design + website branding
+18|4|Ryan|Design layout of website
+19|4|Robin|Develop comprehension assessments for learning modules
+20|4|Molly|Produce logo design + website branding
