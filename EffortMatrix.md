@@ -2,24 +2,24 @@ Effort Matrix
 
 | Task                                                                                                                     | Emily Bever | Ryan Connolly | Robin Heft     | Molly Vongsakhamphouy |
 |--------------------------------------------------------------------------------------------------------------------------|------------------|---------------|-------------|---------------|
-|     Refine what the   product should look like: Michael Reynolds                                                         |     100%          |     0%        |     0%      |     0%        |
-|     Design the UI   model’s looks: Michael Reynolds                                                                      |     100%         |     0%        |     0%      |     0%        |
-|     Design how each   part should interact with one another: Michael Reynolds                                            |     100%         |     0%        |     0%      |     0%        |
-|     Develop   Leaderboard functionality: Michael Reynolds                                                                |     80%          |     10%       |     10%     |     0%        |
-|     Specify   functionality of the product and communicate that functionality with group   members: Michael Reynolds     |     100%         |     0%        |     0%      |     0%        |
-|     Research tech   stack appropriate for our project: Ragu Neopaney                                                     |     5%           |     90%       |     5%      |     0%        |
-|     Develop back-end   for saving leaderboard score to DB: Ragu Neopaney                                                 |     0%           |     100%      |     0%      |     0%        |
-|     Develop UI for   Game: Khoa Do                                                                                       |     10%          |     0%        |     80%     |     10%       |
-|     Refine user   experience with webpage: Khoa Do                                                                       |     10%          |     0%        |     80%     |     10%       |
-|     Provide   documentation and specifications for user interface: Khoa Do                                               |     10%          |     0%        |     90%     |     0%        |
-|     UI Testing from   user point of view: Khoa Do                                                                        |     5%           |     5%        |     80%     |     10%       |
-|     Research markup   languages to develop webpage: Khoa Do                                                              |     0%           |     0%        |     100%    |     0%        |
-|     Code refinement   and Refactoring (Code Review): Ragu Neopaney                                                       |                  |     75%       |     10%     |     10%       |
-|     Validates   functional requirements: Sujay Dammoju                                                                   |     10%          |     5%        |     0%      |     85%       |
-|     Validate routing   of back-end to front-end functionality: Sujay Dammoju                                             |     10%          |     5%        |     0%      |     85%       |
-|     Document   potential bugs: Sujay Dammoju                                                                             |     10%          |     5%        |     0%      |     85%       |
-|     Research   potential cloud possibilities for leaderboard: Sujay Dammoju                                              |     5%           |     0%        |     10%     |     85%       |
-|     Specify certain   tasks to each member during each meeting: Sujay Dammoju                                            |     0%           |     0%        |     0%      |     100%      |
-|     Develop back-end   game play functionality: Sujay Dammoju                                                            |     0%           |     10%       |     5%      |     85%       |
-|     Obtain   requirement from stakeholders' point of view: Ragu Neopaney                                                 |     0%           |     100%      |     0%      |     0%        |
-|     Design Database   side for storing any user data: Ragu Neopaney                                                      |     0%           |     100%      |     0%      |     0%        |
+|     Familiarize selves with GitHub version control, Agile/Scrum development                                                      |     100%          |     0%        |     0%      |     0%        |
+|     Research React Development                                                                     |     100%         |     0%        |     0%      |     0%        |
+|     Create React app localhost                                           |     100%         |     0%        |     0%      |     0%        |
+|     Research Node.js version & libraries                                                              |     80%          |     10%       |     10%     |     0%        |
+|     Determine content to be included in learning modules + order of modules    |     100%         |     0%        |     0%      |     0%        |
+|    Research databases that fit the following criteria: a) can store learning content, b) compatible with Node.js, c) maximizes ease of use                                                  |     5%           |     90%       |     5%      |     0%        |
+|     Develop database after finding optimal platform                                               |     0%           |     100%      |     0%      |     0%        |
+|     	Create basic Node.js project                                                                                  |     10%          |     0%        |     80%     |     10%       |
+|     Develop integration schema for areas of project                                                                    |     10%          |     0%        |     80%     |     10%       |
+|     Create unit/regression testing framework for project code                                          |     10%          |     0%        |     90%     |     0%        |
+|     Write tutorials for modules                                                                   |     5%           |     5%        |     80%     |     10%       |
+|     Draw visualizations for modules                                                        |     0%           |     0%        |     100%    |     0%        |
+|     Research graphics and user-interface (HTML/CSS)                                                |                  |     75%       |     10%     |     10%       |
+|     Execute periodic testing of project code                                                                  |     10%          |     5%        |     0%      |     85%       |
+|     Design layout of website                                          |     10%          |     5%        |     0%      |     85%       |
+|     Develop comprehension assessments for learning modules                                                                           |     10%          |     5%        |     0%      |     85%       |
+|     Research authentication with Node.js and React                                             |     5%           |     0%        |     10%     |     85%       |
+|   	Build interactive graphics for tutorial content                                    |     0%           |     0%        |     0%      |     100%      |
+|     Facilitate the collection/analysis of user reviews, UX feedback, and content quality                                                        |     0%           |     10%       |     5%      |     85%       |
+|    	Handle documentation/organization of content/publication                                                |     0%           |     100%      |     0%      |     0%        |
+|    Produce logo design + website branding                                                    |     0%           |     100%      |     0%      |     0%        |
