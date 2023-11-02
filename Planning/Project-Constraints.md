@@ -1,0 +1,15 @@
+Robin Heft
+Ryan Connolly
+Emily Bever
+Molly Vongsakhamphouy
+CS5001 - Assignment 7
+10/5/2023
+
+Our project has a major ethical constraint because we are developing a platform to teach people about cybersecurity, hacking techniques, and malware. This in of itself is not ethically gray, but people can take the knowledge gained from our platform and apply it in malicious ways. However, there is no way around this issue as in order to learn how to adequately defend an information system, you have to know how to infiltrate an information system. That’s why people who pursue a career in white-hat hacking (ethical hacking) have an impenetrable moral code that ensures they only use their skills and knowledge for good. Our solution is to consistently push the importance of ethics to users through the module content.
+
+As our application accepts and stores user data, security concerns may arise. The database system that we plan on using is Postgres, which is an open-source system that extends the use of SQL.  Due to this, our database will be vulnerable to SQL injection attacks where a bad actor may inject data into our application’s SQL queries in order to modify, delete, or extract information from the database. Protecting data from our users is one of our team’s top priorities, so we will take all actionable precautions against potential attacks, which includes validating inputs and protective monitoring of the database. Being diligent in the implementation of our authentication system will also serve to mitigate attacks from malicious attacks to our application.
+
+From an economic perspective, we have some concerns about what services may be necessary to keep a web server running and their potential costs. None of us have the hardware required to run a web server for more than short instances, so renting a service such as AWS has been mentioned as a possible solution. However, we will have to consider if the need or desire for a continually hosted web server arises and if the price for this solution is worth it. 
+
+A social constraint for this project would be making sure that we have adequately ensured that our website is accessible and useful for all people, which includes having accommodations available for people that may not be able to use the website in the way we plan. That could include having voice descriptions for text in case someone is unable to read the screen. Additionally, since the goal of this website is to be a learning platform for anyone that wants to use it, and could be used by many people in a college class, we need to ensure that the website is able to handle many users and ensure that it will not slow down or break with a large demand. This will include testing the project at a large scale and ensuring we have used technology that can handle large numbers of participants at once. 
+
