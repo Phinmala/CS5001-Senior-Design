@@ -1,9 +1,4 @@
-Robin Heft
-Ryan Connolly
-Emily Bever
-Molly Vongsakhamphouy
-CS5001 - Assignment 7
-10/5/2023
+## CS5001 - Assignment 7
 
 Our project has a major ethical constraint because we are developing a platform to teach people about cybersecurity, hacking techniques, and malware. This in of itself is not ethically gray, but people can take the knowledge gained from our platform and apply it in malicious ways. However, there is no way around this issue as in order to learn how to adequately defend an information system, you have to know how to infiltrate an information system. That’s why people who pursue a career in white-hat hacking (ethical hacking) have an impenetrable moral code that ensures they only use their skills and knowledge for good. Our solution is to consistently push the importance of ethics to users through the module content.
 
