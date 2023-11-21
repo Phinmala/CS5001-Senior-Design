@@ -68,7 +68,7 @@ Design Diagrams are the graphical depictions of what HACKADEMIA will accomplish,
 - We have not yet spent any money on the project.
 
 ## Appendix
-- include appropriate references, citations, links to code repositories, and meeting notes.
+[Meeting Notes](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Meeting%20Notes/MeetingNotes.md)
 
 ## Fall Hours:
 | Name | Task | Hours | Description |
@@ -79,8 +79,8 @@ Design Diagrams are the graphical depictions of what HACKADEMIA will accomplish,
 | All | Task Creation | 2 | Create tasks and diagrams for planning work |
 | Robin | Research Module Content | 5 | Research the content to include in modules |
 | Robin | Module Developement | 5 | Plan and write out the learning modules |
-| Ryan | Research graphics and ui strategies | 3 | Research ways to implement graphics in the ui |
-| Ryan | Learn and complete tutorials on html and css | 3 | Complete tutorials and to learn html and css |
+| Ryan | Research graphics and UI strategies | 3 | Research ways to implement graphics in the UI |
+| Ryan | Learn and complete tutorials on HTML and CSS | 3 | Complete tutorials and to learn HTML and CSS |
 | Ryan | Research testing frameworks and strategies | 2 | Research and try out testing frameworks |
 | Molly | Research database options | 4 | Research optimal database options that would best suit the project and chosen languages |
 | Emily | Research React | 3 | Research the necessities for creating a React Application |
@@ -92,7 +92,7 @@ Design Diagrams are the graphical depictions of what HACKADEMIA will accomplish,
 | Robin | Setup and maintain Jira task board | 3 | Create Jira board and create and maintain task list and workload assignments |
 | Emily | Development | 5 | Frontend and Backend Development |
 | Molly | Development | 6 | Backend and Database Design and Development | 
-| Ryan | Development | 4 | Frontend development focusing on ui design |
+| Ryan | Development | 4 | Frontend development focusing on UI design |
 | All | Final Report | 2 | Make final report for the semester progress |
 
 ## Spring Hours
