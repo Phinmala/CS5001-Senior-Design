@@ -65,13 +65,35 @@ Design Diagrams are the graphical depictions of what HACKADEMIA will accomplish,
 - [Robin Heft](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Professional%20Biographies/biography_robinheft.md)
 
 ## Budget
-- TBD
+- We have not yet spent any money on the project.
 
 ## Appendix
 - include appropriate references, citations, links to code repositories, and meeting notes.
 
 ## Fall Hours:
-- TBD
+| Name | Task | Hours | Description |
+|:-------:|:----------:|:---:|:--------------:|
+| All | Team Meetings | 15 | 10 Weekly 1.5 hour meetings to work on group work, planning, and updates |
+| All | Individual Assignments | 5 | Individual work including essays, peer project reviews, and other class assignments |
+| All | Design Diagrams and User Stories | 3 | Plan out Project and create Design Diagrams |
+| All | Task Creation | 2 | Create tasks and diagrams for planning work |
+| Robin | Research Module Content | 5 | Research the content to include in modules |
+| Robin | Module Developement | 5 | Plan and write out the learning modules |
+| Ryan | Research graphics and ui strategies | 3 | Research ways to implement graphics in the ui |
+| Ryan | Learn and complete tutorials on html and css | 3 | Complete tutorials and to learn html and css |
+| Ryan | Research testing frameworks and strategies | 2 | Research and try out testing frameworks |
+| Molly | Research database options | 4 | Research optimal database options that would best suit the project and chosen languages |
+| Emily | Research React | 3 | Research the necessities for creating a React Application |
+| Emily | Reserch Node.js | 2 | Research and learn Node.js basics |
+| All | React tutorials and Videos | 4 | Watch react tutorial video and complete practice tutorial |
+| Emily | Create React App and Server | 2| Created the basic structure of the React App and Express js App |
+| Molly | Database Design and Development | 2 | Create PostgreSQL database and implement initial structure | 
+| All | Mid-Semester Presentation | 2 | Create and record mid-semester presentation and PowerPoint |
+| Robin | Setup and maintain Jira task board | 3 | Create Jira board and create and maintain task list and workload assignments |
+| Emily | Development | 5 | Frontend and Backend Development |
+| Molly | Development | 6 | Backend and Database Design and Development | 
+| Ryan | Development | 4 | Frontend development focusing on ui design |
+| All | Final Report | 2 | Make final report for the semester progress |
 
 ## Spring Hours
 - TBD
