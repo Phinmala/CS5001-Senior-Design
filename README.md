@@ -69,7 +69,7 @@ Design Diagrams are the graphical depictions of what HACKADEMIA will accomplish,
 
 ## Appendix
 - [Meeting Notes](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Meeting%20Notes/MeetingNotes.md)
-- [Code Repository](https://github.com/emilygb88/senior-design](https://github.com/connolrc/Hackademia-dev/ )
+- [Code Repository](https://github.com/emilygb88/senior-design](https://github.com/connolrc/Hackademia-dev/)
 
 ## Fall Hours:
 | Name | Task | Hours | Description |
