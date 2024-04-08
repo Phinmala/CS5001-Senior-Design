@@ -20,7 +20,7 @@ Advisor: Giovani Abuaitah <br>
 At Hackademia, our mission is to empower individuals to master the ever-evolving realms of cybersecurity, networking, and operating systems. We believe that knowledge is the key to a secure and connected future, and our online learning platform is dedicated to fostering expertise, creativity, and ethical responsibility in these critical domains.
 
 ## Project Description
-Our senior design project revolves around developing a web-based cybersecurity education platform. This platform seeks to simplify complex networking, systems, and cybersecurity concepts through interactive visuals and comprehensive explanations. It will employ a tech stack that includes JavaScript, React, Node.js, and either Postgres or MongoDB for database creation. The project emphasizes user-friendliness and educational efficacy. To ensure a streamlined approach, we're implementing project management techniques like Scrum and Agile. Through regular goal-setting, consistent feedback, and collaborative teamwork, our aim is to produce a valuable educational tool that bridges gaps in understanding cybersecurity.
+Cybersecurity exists at the intersection of many different computing fields: programming, operating systems, networking, etc. Complex cybersecurity concepts, like buffer overflows, are more difficult to learn because a wider breadth of knowledge, in all levels of program abstraction, is required. Hackademia is an interactive cybersecurity educational tool used to animate stack-based vulnerabilities and exploits. This bridges the gap from high-level C code to low-level assembly– visualizing how a program is run within the CPU, and how attackers can take advantage of its flaws. In a debugging-style platform, students step through each assembly instruction of a program. The stack and registers are updated accordingly, giving direct insight as to what is happening under the hood.
 
 ## User Stories and Specifications
 [User Stories](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Planning/User_Stories.md) (5) indicate the goals of our project from a user prespective
@@ -43,7 +43,7 @@ Design Diagrams are the graphical depictions of what HACKADEMIA will accomplish,
 [Project Constraints](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Planning/Project-Constraints.md)
 
 ## Slide Deck
-[Presentation](https://docs.google.com/presentation/d/1Sc395Rk_OU0nPtp3igPpIIvY3E6bxNGVMhcMNbxj4bA/edit#slide=id.ge1d9017b4e_0_328)
+[Presentation](https://docs.google.com/presentation/d/14rIAMLaZ4JrBG3eXTgwwo9oqjU46chw2yewr7RlBPWk/edit?usp=sharing)
 
 ## Self Assessment Essays
 **Fall:**
