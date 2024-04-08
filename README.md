@@ -65,7 +65,8 @@ Design Diagrams are the graphical depictions of what HACKADEMIA will accomplish,
 - [Robin Heft](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Professional%20Biographies/biography_robinheft.md)
 
 ## Budget
-- We have not yet spent any money on the project.
+**Hackademia T-Shirts for CEAS Expo:**  
+We allocated a total of `$60` for the creation of Hackademia T-shirts. These shirts were worn by our team at the CEAS Expo to promote our project and enhance team visibility.
 
 ## Appendix
 - [Meeting Notes](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Meeting%20Notes/MeetingNotes.md)
