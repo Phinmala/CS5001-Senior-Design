@@ -54,7 +54,7 @@ Design Diagrams are the graphical depictions of what HACKADEMIA will accomplish,
 
 **Spring:**
 - [Molly Vongsakhamphouy]
-- [Emily Bever]
+- [Emily Bever](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Homework%20Essays/bevereg_senior_design_self_assessment.pdf)
 - [Ryan Connolly]
 - [Robin Heft]
 
