@@ -44,7 +44,7 @@ Before you can run the application, you'll need to set up a PostgreSQL database 
 ## Running the App
 You have two options for running the application: you can either run only the front-end application, or you can run both the front-end and the server backend for a full application experience. Below are the steps for each method:
 
-![image](https://github.com/Phinmala/CS5001-Senior-Design/assets/43516411/eb1eb7a4-b857-482d-9ffc-92cefe186012 | width=50)
+![image](https://github.com/Phinmala/CS5001-Senior-Design/assets/43516411/eb1eb7a4-b857-482d-9ffc-92cefe186012)
 ### Running Only the Front-End Application
 
 1. **Start the Front-End**: Navigate to the main project folder and locate the `StartFrontEnd.bat` file. Double-click on this file to run the front-end application. This will start the React application in your default web browser.
