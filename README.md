@@ -1,16 +1,20 @@
 ### Table of Contents
 - [HACKADEMIA](#hackademia)
   - [Project Description](#project-description)
+  - [Project Code & User Manual](#project-code-and-user-manual)
+  - [Project Poster](#project-poster)
   - [User Stories and Specifications](#user-stories-and-specifications)
   - [Project Tasks and Timeline](#project-tasks-and-timeline)
   - [ABET Concerns Essay](#abet-concerns-essay)
+  - [Test Plan and Test Results](#test-plan-and-test-results)
   - [Slide Deck](#slide-deck)
   - [Self Assessment Essays](#self-assessment-essays)
   - [Professional Biographies](#professional-biographies)
   - [Budget](#budget)
-  - [Appendix](#appendix)
   - [Fall Hours](#fall-hours)
   - [Spring Hours](#spring-hours)
+  - [Hour Justification Essays](hour-justification-essays)
+  - [Appendix](#appendix)
 
 # HACKADEMIA
 Team name: Team REMY <br>
@@ -21,6 +25,13 @@ At Hackademia, our mission is to empower individuals to master the ever-evolving
 
 ## Project Description
 Cybersecurity exists at the intersection of many different computing fields: programming, operating systems, networking, etc. Complex cybersecurity concepts, like buffer overflows, are more difficult to learn because a wider breadth of knowledge, in all levels of program abstraction, is required. Hackademia is an interactive cybersecurity educational tool used to animate stack-based vulnerabilities and exploits. This bridges the gap from high-level C code to low-level assembly– visualizing how a program is run within the CPU, and how attackers can take advantage of its flaws. In a debugging-style platform, students step through each assembly instruction of a program. The stack and registers are updated accordingly, giving direct insight as to what is happening under the hood.
+
+## Project Code and User Manual
+[Hackademia Project Repository](https://github.com/connolrc/Hackademia-dev) <br>
+The step-by-step user documentation for running the application locally can be found [here](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Planning/UserDocs.md).
+
+## Project Poster
+The full Hackademia project poster can be found [here](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Deliverables/Hacakdemia_Project_Poster.pdf).
 
 ## User Stories and Specifications
 [User Stories](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Planning/User_Stories.md) (5) indicate the goals of our project from a user prespective
@@ -41,6 +52,10 @@ Design Diagrams are the graphical depictions of what HACKADEMIA will accomplish,
 
 ## ABET Concerns Essay
 [Project Constraints](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Planning/Project-Constraints.md)
+
+## Test Plan and Test Results
+Test Plan [document](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Planning/Test-Plan.pdf) <br>
+Test Results [document]
 
 ## Slide Deck
 [Presentation](https://docs.google.com/presentation/d/14rIAMLaZ4JrBG3eXTgwwo9oqjU46chw2yewr7RlBPWk/edit?usp=sharing)
@@ -68,11 +83,7 @@ Design Diagrams are the graphical depictions of what HACKADEMIA will accomplish,
 **Hackademia T-Shirts for CEAS Expo:**  
 We allocated a total of `$60` for the creation of Hackademia T-shirts. These shirts were worn by our team at the CEAS Expo to promote our project and enhance team visibility.
 
-## Appendix
-- [Meeting Notes](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Meeting%20Notes/MeetingNotes.md)
-- [Code Repository](https://github.com/connolrc/Hackademia-dev/)
-
-## Fall Hours:
+## Fall Hours
 | Name | Task | Hours | Description |
 |:-------:|:----------:|:---:|:--------------:|
 | All | Team Meetings | 15 | 10 Weekly 1.5 hour meetings to work on group work, planning, and updates |
@@ -98,4 +109,28 @@ We allocated a total of `$60` for the creation of Hackademia T-shirts. These shi
 | All | Final Report | 2 | Make final report for the semester progress |
 
 ## Spring Hours
-- TBD
+| Name | Task | Hours | Description |
+|:-------:|:----------:|:---:|:--------------:|
+| All | Team Meetings | 15 | 10 Weekly 1.5 hour meetings to work on group work, planning, and updates |
+| All | Individual Assignments | 5 | Individual work including individul essays, reports, and other class assignments |
+| All | CEAS EXPO | 5 | Presentated project to college-wide and departmental judges |
+| Molly | Research | 3 | Reseached potential animation libraries and node.js database integration techniques |
+| Molly | Database Creation & Integration | 4 |  Complete the creation and setup of the project PostgreSQL database as foundation for future phases |
+| Molly | Brand Design | 1 | Determined color scheme for the application |
+| Molly | Logo Consulting | 1 | Consulted an art student about creating and integrating a custom logo for the project |
+| Molly | Created User Documentation/Manual | 2 | Create user documentation, including screenshots, to ensure smooth user experience in accessing the application locally |
+| Molly | Final PowerPoint | 2 | Worked on sections of the final PowerPoint presentation and updated previous information to match current scope|
+| Molly | Create Landing Page | 2 | Design and develop the landing page for the project, with eye-catching animation |
+| Molly | Hackademia Poster Creation | 4 | Designed the physcial poster for the project, summarizing key information and visuals in alignment with project brand |
+| Molly | Update Main GitHub | 1 | Update the main GitHub repository with the latest documentation |
+
+## Hour Justification Essays
+- [Molly Vongsakhamphouy]
+- [Emily Bever]
+- [Ryan Connolly]
+- [Robin Heft]
+
+## Appendix
+- [Fall Meeting Notes](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Meeting%20Notes/MeetingNotes.md)
+- [Spring Meeting Notes](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Meeting%20Notes/SpringMeetingNotes.md)
+- [Code Repository](https://github.com/connolrc/Hackademia-dev/)
