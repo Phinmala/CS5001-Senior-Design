@@ -123,6 +123,8 @@ We allocated a total of `$60` for the creation of Hackademia T-shirts. These shi
 | Molly | Create Landing Page | 2 | Design and develop the landing page for the project, with eye-catching animation |
 | Molly | Hackademia Poster Creation | 4 | Designed the physcial poster for the project, summarizing key information and visuals in alignment with project brand |
 | Molly | Update Main GitHub | 1 | Update the main GitHub repository with the latest documentation |
+| Emily | Frontend Development | 30 | Implementation of the user interface including the initial app structure, learning modules, animations, and more with React.js, HTML, and CSS  |
+
 
 ## Hour Justification Essays
 - [Molly Vongsakhamphouy]
