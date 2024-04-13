@@ -54,8 +54,7 @@ Design Diagrams are the graphical depictions of what HACKADEMIA will accomplish,
 [Project Constraints](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Planning/Project-Constraints.md)
 
 ## Test Plan and Test Results
-Test Plan [document](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Planning/Test-Plan.pdf) <br>
-Test Results [document]
+Test Plan [document](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Planning/Test-Plan-and-Results.pdf) <br>
 
 ## Slide Deck
 [Presentation](https://docs.google.com/presentation/d/14rIAMLaZ4JrBG3eXTgwwo9oqjU46chw2yewr7RlBPWk/edit?usp=sharing)
