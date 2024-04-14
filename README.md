@@ -123,12 +123,14 @@ We allocated a total of `$60` for the creation of Hackademia T-shirts. These shi
 | Molly | Hackademia Poster Creation | 4 | Designed the physcial poster for the project, summarizing key information and visuals in alignment with project brand |
 | Molly | Update Main GitHub | 1 | Update the main GitHub repository with the latest documentation |
 | Emily | Frontend Development | 30 | Implementation of the user interface including the initial app structure, learning modules, animations, and more with React.js, HTML, and CSS  |
+| Ryan | Frontend Development | 30 | Designing the UI of the web application through a mockup, HTML/CSS, and React, as well as helping develop some of our module pages |
+| Ryan | T-shirt Ordering | 1 | Communicating the design and securing the order of our Hackademia-branded group shirts for the Expo
 
 
 ## Hour Justification Essays
 - [Molly Vongsakhamphouy](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Homework%20Essays/vongsamy_Hour%20Justification.pdf)
 - [Emily Bever](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Homework%20Essays/Summary_of_Hours_bevereg.pdf)
-- [Ryan Connolly]
+- [Ryan Connolly](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Homework%20Essays/Connolly_Hours_Justification.pdf)
 - [Robin Heft]
 
 ## Appendix
