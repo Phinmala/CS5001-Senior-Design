@@ -67,7 +67,7 @@ Test Plan [document](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/
 - [Robin Heft](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Homework%20Essays/heftrj_Individual_Capstone_Assessment.pdf)
 
 **Spring:**
-- [Molly Vongsakhamphouy]
+- [Molly Vongsakhamphouy](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Homework%20Essays/vongsamy_spring%20self%20assessment.pdf)
 - [Emily Bever](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Homework%20Essays/bevereg_senior_design_self_assessment.pdf)
 - [Ryan Connolly]
 - [Robin Heft]
