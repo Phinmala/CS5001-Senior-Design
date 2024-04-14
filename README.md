@@ -126,7 +126,7 @@ We allocated a total of `$60` for the creation of Hackademia T-shirts. These shi
 
 
 ## Hour Justification Essays
-- [Molly Vongsakhamphouy]
+- [Molly Vongsakhamphouy](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Homework%20Essays/vongsamy_Hour%20Justification.pdf)
 - [Emily Bever](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Homework%20Essays/Summary_of_Hours_bevereg.pdf)
 - [Ryan Connolly]
 - [Robin Heft]
