@@ -125,10 +125,10 @@ We allocated a total of `$60` for the creation of Hackademia T-shirts. These shi
 | Emily | Frontend Development | 30 | Implementation of the user interface including the initial app structure, learning modules, animations, and more with React.js, HTML, and CSS  |
 | Ryan | Frontend Development | 30 | Designing the UI of the web application through a mockup, HTML/CSS, and React, as well as helping develop some of our module pages |
 | Ryan | T-shirt Ordering | 1 | Communicating the design and securing the order of our Hackademia-branded group shirts for the Expo
-| Robin | Cyber content development | 20 | Communicated with advisor about what learning concepts should be covered, created layouts for the webpages, wrote descriptions for each module | 
+| Robin | Cyber content development | 15 | Communicated with advisor about what learning concepts should be covered, created layouts for the webpages, wrote descriptions for each module | 
 | Robin | Animation development | 15 | Created powerpoints and other visualizations to show developers how the content should be animated |
 | Robin | Development support | 2 | Provided clarification during development to ensure layout and animations were programmed as aspected |
-
+| Robin | Added content to final poster | 3 | Wrote abstract and problem/solution statements for poster |
 
 ## Hour Justification Essays
 - [Molly Vongsakhamphouy](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Homework%20Essays/vongsamy_Hour%20Justification.pdf)
