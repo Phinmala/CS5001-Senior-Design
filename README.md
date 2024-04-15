@@ -134,7 +134,7 @@ We allocated a total of `$60` for the creation of Hackademia T-shirts. These shi
 - [Molly Vongsakhamphouy](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Homework%20Essays/vongsamy_Hour%20Justification.pdf)
 - [Emily Bever](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Homework%20Essays/Summary_of_Hours_bevereg.pdf)
 - [Ryan Connolly](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Homework%20Essays/Connolly_Hours_Justification.pdf)
-- [Robin Heft]
+- [Robin Heft] (https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Homework%20Essays/summary_of_hours_heftrj.pdf)
 
 ## Appendix
 - [Fall Meeting Notes](https://github.com/Phinmala/CS5001-Senior-Design/blob/main/Meeting%20Notes/MeetingNotes.md)
